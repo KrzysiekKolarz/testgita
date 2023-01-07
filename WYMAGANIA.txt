@@ -1,0 +1,3 @@
+Logowanie doo aplikacji:
+- użytkownik to adres email w poprawnym formacie
+- hasło musi spełniac normy bezpieczestwa i wygasa co 30 dni.
